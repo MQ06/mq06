@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello! 👋
 
 My name is **Myron** I'm a noob developer who wants to learn coding with these languages **Java, JavaScript, Html, Css and PHP**
 
