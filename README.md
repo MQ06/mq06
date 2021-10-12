@@ -2,4 +2,6 @@
 
 My name is **Myron** I'm a new developer who wants to learn coding with these languages **Java, JavaScript, HTML, CSS and PHP**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsjustmyron&show_icons=true&locale=en" alt="itsjustmyron" /></p>
+<p align="center">
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Jazzkuh&include_all_commits=true&show_icons=true&theme=vue&count_private=true&hide_border=true" />
+</p>
