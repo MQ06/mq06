@@ -8,5 +8,5 @@ My name is **Myron** I'm a new developer who wants to learn coding with these la
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustMyron)
 <p align="center">
-<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ItsJustMyron&include_all_commits=true&show_icons=true&theme=vue&count_private=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ItsJustMyron&include_all_commits=true&show_icons=true&theme=vue&count_private=true&hide_border=true" />
 </p>
