@@ -40,7 +40,6 @@ Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I
         <a href="https://open.spotify.com/user/zrei8evwinfjy9d27fjon68hh?si=eed83da070104091">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem" width="500px"/>
     </a>
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ItsJustMyron)  
 </p>
 
 ![](https://komarev.com/ghpvc/?username=ItsJustMyron&style=flat-square)
@@ -49,5 +48,6 @@ Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I
 ![vscode](https://dev.discordprofiles.me/badge/vscode/427872440694210560?style=flat-square)
 ![intellij](https://dev.discordprofiles.me/badge/intellij/427872440694210560?style=flat-square)
 [![spotify](https://dev.discordprofiles.me/badge/spotify/427872440694210560?style=flat-square)](https://dev.discordprofiles.me/openspotify/427872440694210560?style=flat-square)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ItsJustMyron)  
     
 </div>
