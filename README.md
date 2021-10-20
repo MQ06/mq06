@@ -8,4 +8,5 @@ My name is **Myron** I'm a new developer who wants to learn coding with these la
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustMyron)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsJustMyron&show_icons=true)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustMyron&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
