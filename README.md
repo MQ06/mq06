@@ -13,10 +13,10 @@
     <a href="https://github.com/ItsJustMyron/">
         <img src="./assets/icons/header/github.svg" width="25px" />
     </a>
- //   &nbsp;
- //   <a href="https://twitter.com/Arindamz03/">
- //       <img src="./assets/icons/header/twitter.svg" width="25px" />
- //   </a>
+    &nbsp;
+    <a href="https://twitter.com/myron.quis/">
+        <img src="./assets/icons/header/twitter.svg" width="25px" />
+    </a>
 </p>
 
 
