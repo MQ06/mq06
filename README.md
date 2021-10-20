@@ -41,12 +41,5 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a just starting developer who wants to
         <img src="https://novatorem-5mgzx2rqi-itsjustmyron3.vercel.app/api/spotify" width="500px"/>
     </a>
 </p>
-
-![](https://komarev.com/ghpvc/?username=ItsJustMyron&style=flat-square)
-![status](https://dev.discordprofiles.me/badge/status/427872440694210560?style=flat-square)
-![playing](https://dev.discordprofiles.me/badge/playing/427872440694210560?style=flat-square)
-![vscode](https://dev.discordprofiles.me/badge/vscode/427872440694210560?style=flat-square)
-![intellij](https://dev.discordprofiles.me/badge/intellij/427872440694210560?style=flat-square)
-[![spotify](https://dev.discordprofiles.me/badge/spotify/427872440694210560?style=flat-square)](https://dev.discordprofiles.me/openspotify/427872440694210560?style=flat-square)
     
 </div>
