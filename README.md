@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://www.itsjustmyron.nl/">
-        <img src="./assets/banner.svg" />
+        <img src="./assets/banner.png" />
     </a>
 </p>
 <p align="center">
