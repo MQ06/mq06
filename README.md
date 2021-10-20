@@ -23,7 +23,7 @@
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Heyo 👋 myself Arindam Hazra {Xynox} aka “Noobzie Coder Boi” from India. I am a student and software developer, passionate about making awesome things for tons of smiling faces. Enjoy building things, especially those which help or entertain others to bring happiness in others’ life and discover new kinds of stuff to learn. I spent my free time programming, singing, listening to songs, making code more efficient or user friendly, and sometimes playing video games! 😄
+Heyo 👋 I'm Myron aka ItsJustMyron, I'm a just starting developer who wants to learn HTML, CSS, PHP, Java and JavaScript, I often play videogames, and like to help people! 😄
 
 ## 🔖 My Statistics
 &nbsp;
