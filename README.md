@@ -14,7 +14,7 @@
         <img src="./assets/icons/header/github.svg" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/myron.quis/">
+    <a href="https://twitter.com/MyronQuis/">
         <img src="./assets/icons/header/twitter.svg" width="25px" />
     </a>
 </p>
