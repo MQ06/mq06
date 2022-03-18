@@ -36,10 +36,6 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a just starting developer who wants to
     </a>
     <a href="https://github.com/ItsJustMyron/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsJustMyron&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>
-        <a href="https://open.spotify.com/user/myron.quispel">
-        <img src="https://novatorem-5mgzx2rqi-itsjustmyron3.vercel.app/api/spotify" width="500px"/>
-    </a>
 </p>
     
 </div>
