@@ -38,4 +38,6 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a just starting developer who wants to
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ItsJustMyron&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 </p>
     
+![Profile views](https://komarev.com/ghpvc/?username=itsjustmyron&color=brightgreen)
+    
 </div>
