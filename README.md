@@ -29,7 +29,7 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a just starting developer who wants to
 &nbsp;
 <p align="center">
     <a href="https://github.com/ItsJustMyron/">
-        <img src="https://github-readme-stats.vercel.app/api?username=ItsJustMyron&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+        <img src="[https://github-readme-stats.vercel.app/api?username=ItsJustMyron&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/](https://github-readme-stats.vercel.app/api?username=itsjustmyron&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia)" />
     </a>
     <a href="https://github.com/ItsJustMyron/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsJustMyron&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
