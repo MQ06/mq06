@@ -25,10 +25,10 @@
 &nbsp;
 Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I often play videogames, and like to help people! 😄
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/427872440694210560?animated=true)](https://discord.com/users/427872440694210560)
+
 ## 🔖 My Statistics
 &nbsp;
-
-    [![Discord Presence](https://lanyard.cnrad.dev/api/427872440694210560?animated=true)](https://discord.com/users/427872440694210560)
 
 <p align="center">
     <a href="https://github.com/ItsJustMyron/">
