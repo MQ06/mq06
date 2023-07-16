@@ -23,7 +23,7 @@
 
 ## :bust_in_silhouette: About Me
 &nbsp;
-Heyo 👋 I'm Myron aka ItsJustMyron, I'm a just starting developer who wants to learn HTML, CSS, PHP, Java and JavaScript, I often play videogames, and like to help people! 😄
+Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I often play videogames, and like to help people! 😄
 
 ## 🔖 My Statistics
 &nbsp;
