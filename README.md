@@ -27,9 +27,9 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I
 
 ## 🔖 My Statistics
 &nbsp;
-<p alight="center">
+
     [![Discord Presence](https://lanyard.cnrad.dev/api/427872440694210560?animated=true)](https://discord.com/users/427872440694210560)
-</p>
+
 <p align="center">
     <a href="https://github.com/ItsJustMyron/">
         <img src="https://github-readme-stats.vercel.app/api?username=itsjustmyron&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" />
