@@ -41,6 +41,6 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MyronQuispel&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
 </p>
     
-![Profile views](https://komarev.com/ghpvc/?username=itsjustmyron&color=brightgreen)
+![Profile views](https://komarev.com/ghpvc/?username=myronquispel&color=brightgreen)
     
 </div>
