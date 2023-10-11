@@ -42,5 +42,5 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I
 </p>
     
 ![Profile views](https://komarev.com/ghpvc/?username=myronquispel&color=brightgreen)
-    
+
 </div>
