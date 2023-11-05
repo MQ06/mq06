@@ -27,6 +27,8 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/427872440694210560?animated=true)](https://discord.com/users/427872440694210560)
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6fCr8LLSkxveHHd4TD3B67?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## 🔖 My Statistics
 &nbsp;
 
