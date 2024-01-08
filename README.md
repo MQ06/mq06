@@ -35,7 +35,7 @@ Heyo 👋 I'm Myron aka ItsJustMyron, I'm a Software Developer Student at GLR, I
         <img src="https://github-readme-stats.vercel.app/api?username=MQ06&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" />
     </a>
     <a href="https://github.com/MQ06/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyronQuispel&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MQ06&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
     </a>
     <a href="https://github.com/MQ06/">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=MQ06&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=db1cff&ring=db1cff&stroke=FFFFFFFF)](https://git.io/streak-stats" />
