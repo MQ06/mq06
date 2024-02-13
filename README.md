@@ -1,10 +1,10 @@
 <div align = "center">
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.itsjustmyron.nl/">
         <img src="./assets/banner2.png" />
     </a>
-</p>
+</p> -->
 <p align="center">
     <a href="https://www.itsjustmyron.nl/">
         <img src="./assets/icons/header/website.svg" width="25px" />
